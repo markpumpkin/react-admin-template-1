@@ -1,7 +1,7 @@
 {
     "name": "berry-material-react-free",
     "version": "3.2.0",
-    "private": true,
+    "private": false,
     "homepage": "https://berrydashboard.io/free",
     "dependencies": {
         "@emotion/cache": "^11.9.3",
@@ -77,5 +77,9 @@
         "eslint-plugin-react-hooks": "4.6.0",
         "prettier": "^2.7.1",
         "sass": "^1.53.0"
+    },
+    "engines": {
+        "node": "16.14.2",
+        "npm": "8.5.0"
     }
 }
